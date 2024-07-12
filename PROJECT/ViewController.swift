@@ -1,0 +1,19 @@
+//
+//  ViewController.swift
+//  PROJECT
+//
+//  Created by MacBook on 11/07/24.
+//
+
+import UIKit
+import CoreData
+class ViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view.
+    }
+
+
+}
+
